@@ -1,5 +1,5 @@
 <?php
-   /* Online PHP Compiler (Interpreter) and Editor */
+   
    do{
         $num1 = readline("შეიყვანეთ პირველი რიცხვი \n" );
         $num2 = readline("შეიყვანეთ მეორე რიცხვი");
